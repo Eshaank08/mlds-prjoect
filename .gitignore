@@ -1,0 +1,28 @@
+# Exclude skops model files
+*.skops
+
+# Exclude data files (too large for git)
+*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Model artifacts
+*.pkl
+*.joblib 
