@@ -56,7 +56,7 @@ python test_models.py
 
 ### `complete_car_price_analysis.py`
 - **Complete analysis with feature engineering**
-- Tests 7 different ML algorithms
+- Tests 6 high-quality ML algorithms
 - Compares raw data vs enhanced features
 - Creates beautiful visualizations
 - **Expected Performance**: 70-85% R²
@@ -156,4 +156,4 @@ This project demonstrates the power of feature engineering and proper model comp
 
 ---
 
-**Created with ❤️ for learning machine learning** 
+**Created with ❤️ for learning machine learning**
